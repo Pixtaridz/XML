@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Project>название проекта</Project>
+  <Created_Date>дата создания бага</Created_Date>
+  <BUG_ID>идентификатор баг репорта</BUG_ID>
+  <Environment>окружение на чем был обнаружен баг</Environment>
+  <Summary>краткое описание, заголовок отчета, Что? Где? При каких условиях?</Summary>
+  <Description>более полное описание</Description>
+  <Precondition>Проще описать шаги и снизить их количество</Precondition> 
+  <Steps_to_reproduce>Шаги к воспроизведению</Steps_to_reproduce>
+  <Actual_Result>Результат</Actual_Result>
+  <Expected_Result>Ожидаемый результат</Expected_Result>
+  <Attachments>Вложение скриншотов, логов, видео, гиф</Attachments>
