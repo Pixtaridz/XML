@@ -5,6 +5,8 @@
   <BUG_ID>идентификатор баг репорта</BUG_ID>
   <Environment>окружение на чем был обнаружен баг</Environment>
   <Summary>краткое описание, заголовок отчета, Что? Где? При каких условиях?</Summary>
+  <Severity>Влияние дефекта на работоспособность приложения</Severity>
+  <Priority>Очередность выполнения задачи или устранения дефекта</Priority>
   <Description>более полное описание</Description>
   <Precondition>Проще описать шаги и снизить их количество</Precondition> 
   <Steps_to_reproduce>Шаги к воспроизведению</Steps_to_reproduce>
